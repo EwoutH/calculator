@@ -2,7 +2,7 @@ image: Visual Studio 2017
 configuration: Release
 
 build:
-  project: Calculator.sln
+  project: src/Calculator.sln
 
 artifacts:
     - path: bin\Release\*.*
